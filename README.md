@@ -4,4 +4,5 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Machine learning was not applied in this project.
+Machine learning was not applied in this project. 
+This repository only contains R code. To see results, open the files in R studio or some other sufficient software.
