@@ -5,4 +5,4 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Machine learning was not applied in this project. 
-This repository only contains R code. To see results, open the files in R studio or some other sufficient software.
+This repository only contains R code. To see results, the files would have to be opened in R studio or some other compatible software.
